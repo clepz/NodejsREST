@@ -1,0 +1,1 @@
+// Database baglanti fonksiyonları buradan export edilmeli. gerekli connection bilgileri parametre olarak app.js'ten alinmali.
