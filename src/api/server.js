@@ -7,9 +7,9 @@ const user = require ('./components/users/users-controller');
 
 // guaranteed to get dependencies
 module.exports = {
-    routers:{
+    middlewares: [],
+    routers:[
         //auth,
         user,
-    },
-    middleware: {}
+    ],
 }
